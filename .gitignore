@@ -1,4 +1,8 @@
 # Ignorar archivos JSON
 *.json
 
+# Ignorar archivos .model
+*.model
 
+# Ignorar archivos .pth
+*.pth
